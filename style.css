@@ -1,0 +1,78 @@
+body{
+  margin-top: 1em;
+}
+.container{
+  margin-bottom: 30px;
+}
+.carousel slide{
+   background-color: orangered;
+}
+.buy-now-buttton{
+  background-color: black;
+  border: none;
+  color:white;
+  padding: 6px 14px;
+  border-radius: 6px;
+}
+a{
+  color:#ffc107;
+  size: 3em;
+  text-decoration: none;
+}
+
+.categories{
+text-align: center;
+  border-bottom: 10px  solid orange;
+ width: 200px;
+margin: auto;
+ border-radius: 5%;
+
+}
+
+.logo-img{
+  width: 120px;
+  margin-right: 40em;
+}
+.cat-1{
+  border: 1px solid rgb(235, 234, 234);
+  padding: 22px;
+  background-color: rgb(253, 251, 251);
+  box-shadow:4px 2px 6px 2px rgb(231, 228, 228);
+  width: 210px;
+  height: 220px;
+  border-radius: 40px 0px;
+  margin-right: 40px;
+ 
+}
+
+.cat-2{
+  border: 1px solid rgb(235, 234, 234);
+  padding: 22px;
+  background-color: rgb(253, 251, 251);
+  box-shadow:4px 2px 6px 2px rgb(231, 228, 228);
+  width: 210px;
+  height: 220px;
+  border-radius: 40px 0px;
+ margin-bottom: 40px;
+}
+.cat-3{
+  border: 1px solid rgb(235, 234, 234);
+  padding: 22px;
+  background-color: rgb(253, 251, 251);
+  box-shadow:4px 2px 6px 2px rgb(231, 228, 228);
+  width: 210px;
+  height: 220px;
+  border-radius: 40px 0px;
+}
+footer{
+  color: grey;
+  text-transform: capitalize;
+  
+}
+
+
+.card-cat{
+  background-color: rgb(244, 252, 244);
+  box-shadow: 4px 2px 6px 4px rgb(231, 228, 228);
+  border-radius: 10px;
+}
